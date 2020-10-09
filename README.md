@@ -16,3 +16,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rafaelcarvalho20&show_icons=true" alt="faelcarvalho"/> 
+</p>
