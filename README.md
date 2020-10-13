@@ -5,8 +5,6 @@
   <img src="/img.png">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelcarvalho20" alt="faelcarvalho" /> </p>
-
 - 👨‍💻 I am currently studying Systems Development
 
 - ⚡ I love to learn new things and face new challenges
